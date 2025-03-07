@@ -23,8 +23,9 @@
 
 ## Description
 
-Sistema de Autenticação JWT utilizando o nest.js com um banco de dados criado atraves do tembo.io e interligado pelo prisma, sistema feito atraves de documentação e pesquisas, servindo como base para quem deseja implementar e fazer alterações ou até mesmo estudar.
+Sistema de Autenticação JWT utilizando o nest.js com um banco de dados criado atraves do tembo.io e interligado pelo Prisma, sistema feito atraves de documentação e pesquisas, servindo como base para quem deseja implementar e fazer alterações ou até mesmo estudar.
 
+Para quem for utilizar o projeto alterar o arquivo .env com o link do seu banco de dados.
 ## Project setup
 
 ```bash
